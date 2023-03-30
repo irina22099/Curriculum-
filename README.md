@@ -1,6 +1,9 @@
 ## **Curriculum Acádemico**
 
-#### **Nombre:** Noah Rodriguez Vargas  <img src="mujer.jpg" width="200">
+#### **Nombre:** Noah Rodriguez Vargas 
+
+<img src="mujer.jpg" width="200">
+
 #### **Ocupación:** Estudiante de la carrera de Bachillerato en Geografia en la [Universidad de Costa Rica](https://www.ucr.ac.cr/) 
 #### **Contacto:** noah.rv@gmail.com  
 #### **Teléfono:** _60243118_ 
